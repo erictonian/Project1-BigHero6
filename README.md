@@ -5,9 +5,9 @@ UTA Data Bootcamp Project 1, Group 6 (Mon-Wed)
 This project will examine the relationship between property values and racial demographics in the zip codes areas of Austin, TX from 2011-2017.
 
 ### Hypothesis
-H-Null: Rising property values do not signal any changes in the racial makeup of the zip code areas within Austin.
+H-Null: If property values rise within Austin (by zip code area), then there will be no changes of the diversity index.
 
-H-Alt: Rising property values in Austin are correlated with zip code areas becoming less diverse over time.
+H-Alt: If property values rise within Austin (by zip code area), then the diversity index will show significant negative changes.
 
 ### Data Sources
 Zillow Home Value Index (ZHVI) for All Homes - Time Series, 1996-2018 (https://www.zillow.com/research/data/)
