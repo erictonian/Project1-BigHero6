@@ -1,4 +1,6 @@
-# Project1-BigHero6
+![bighero6_smallbanner-mod](bighero6_smallbanner-mod.jpg)
+
+# Analysis of Property Values and Diversity of Austin
 UTA Data Bootcamp Project 1, Group 6 (Mon/Wed)
 
 ### Purpose
