@@ -74,7 +74,7 @@ r-value: -0.8099936377599409    p-value: 2.4371772271053096e-22
 
 ![2011-2017_Diversity_Index](images/2011-2017_Diversity_Index.gif)
 
-https://www.dropbox.com/s/kxvqe9jz2rf6trl/Combined%20Overall_Diversity%20Index%20and%20Property%20Value_map.html?dl=0
+https://www.dropbox.com/sh/z98ulxf2m9khuku/AAC7XHnB_WOKv-ca9jviqOS6a?dl=0
 
 #### 05 - Agustin and Billy - General Trend vs Specific Areas
 ![Billy Home Value vs. Diversity All](images/05-Billy-Value-Diversity-All.png)
