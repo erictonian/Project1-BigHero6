@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Property Values and Diversity of Austin
 ## Our Team:
 ![The Team](images/the-team.gif)
