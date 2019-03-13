@@ -70,9 +70,9 @@ r-value: -0.8099936377599409    p-value: 2.4371772271053096e-22
 ![Aydin Heatmap](images/03-01-aydin-heatmap.png)
 
 #### 04 - Trevor - Zip Code Color Map
-![2011-2017 Property Values.gif](HeatMaps_Trevor/output_data/2011-2017 Property Values.gif)
+![2011-2017 Property Values](Project1_BigHero6/HeatMaps_Trevor/output_data/2011-2017 Property Values.gif)
 
-![2011-2017 Diversity Index.gif](HeatMaps_Trevor/output_data/2011-2017 Diversity Index.gif)
+![2011-2017 Diversity Index](Project1_BigHero6/HeatMaps_Trevor/output_data/2011-2017 Diversity Index.gif)
 
 https://www.dropbox.com/s/kxvqe9jz2rf6trl/Combined%20Overall_Diversity%20Index%20and%20Property%20Value_map.html?dl=0
 
