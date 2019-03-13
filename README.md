@@ -1,6 +1,5 @@
 # Analysis of Property Values and Diversity in Austin
 ## Our Team:
-![The Team](images/the-team.gif)
 ![bighero6_smallbanner-mod](bighero6_smallbanner-mod.jpg)
 ## Eric Tonian, Godwin Assiogbon, Aydin Yildirim, Trevor Kulbeth, Agustin Gonzalez, and Billy Wenbin Zhao
 
