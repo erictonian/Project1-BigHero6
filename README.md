@@ -3,9 +3,7 @@
 ![bighero6_smallbanner-mod](bighero6_smallbanner-mod.jpg)
 ## Eric Tonian, Godwin Assiogbon, Aydin Yildirim, Trevor Kulbeth, Agustin Gonzalez, and Billy Wenbin Zhao
 
-# Analysis of Property Values and Diversity of Austin
-UTA Data Bootcamp Project 1, Group 6 (Mon/Wed)
->>>>>>> 8a44725961fdb1a880b7ea95f7af018e8d39a9c1
+### UTA Data Bootcamp Project 1, Group 6 (Mon/Wed)
 
 ### Project Description:
 This project will examine the relationship between property values and racial demographics in the zip codes areas of Austin, TX from 2011-2017.
