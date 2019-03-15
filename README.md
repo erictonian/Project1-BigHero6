@@ -5,8 +5,6 @@
 ### UTA Data Bootcamp Project 1, Group 6 (Mon/Wed)
 
 ## Our Team:
-![bighero6_smallbanner-mod](bighero6_smallbanner-mod.jpg)
-## Our Team:
 ![The Team](images/the-team.gif)
 * Eric Tonian
 * Godwin Assiogbon
