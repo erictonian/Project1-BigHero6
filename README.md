@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![The Big Hero 6](images/banner.jpg)
 
 # Property Values and Diversity of Austin
@@ -13,6 +14,20 @@
 
 ### Project Description:
 This project will examine the relationship between property values and racial demographics in the zip codes areas of Austin, TX from 2011-2017.
+=======
+# Analysis of Property Values and Diversity in Austin
+## Our Team:
+![bighero6_smallbanner-mod](bighero6_smallbanner-mod.jpg)
+## Eric Tonian, Godwin Assiogbon, Aydin Yildirim, Trevor Kulbeth, Agustin Gonzalez, and Billy Wenbin Zhao
+
+### UTA Data Bootcamp Project 1, Group 6 (Mon/Wed)
+
+### Project Description:
+This project will examine the relationship between property values and racial demographics in the zip codes areas of Austin, TX from 2011-2017.
+
+### Hypothesis:
+H-Null: If property values rise within Austin (by zip code area), then there will be no changes of the diversity index*.
+>>>>>>> 94130e99801b58cde994757e3d5c7c6c88947bf6
 
 ### Hypothesis:
 ##### * H-Null: If property values rise within Austin (by zip code area), then there will be no changes of the diversity index*.
@@ -23,7 +38,14 @@ This project will examine the relationship between property values and racial de
 2. What is Austin's geographical layout like in relation to home value and diversity?
 3. Is there any specific locations that diversity and home value show strong correlations?
 
+### Research Questions to Answer:
+1. Does the diversity negatively impacted by the raise of home value in Austin?
+2. What is Austin's geographical layout like in relation to home value and diversity?
+3. Is there any specific locations that diversity and home value show strong correlations?
+4. (bonus) Is school rating a good predictor of home value?
+
 ### Data Sources
+<<<<<<< HEAD
 * Zillow Home Value Index (ZHVI) for All Homes - Time Series, 1996-2018 (https://www.zillow.com/research/data/)
 * U.S. Census American Community Survey (ACS), 2011-2017 (https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
 * GreatSchools API (https://www.greatschools.org/api/docs/technical-overview/)
@@ -126,3 +148,71 @@ LinregressResult(slope=-3720.172417840378, intercept=342491.2738648559, rvalue=-
 
 ## Thank you!
 ![Thank you](images/bmax-bye.gif)
+=======
+Zillow Home Value Index (ZHVI) for All Homes - Time Series, 1996-2018 (https://www.zillow.com/research/data/)
+U.S. Census American Community Survey (ACS), 2011-2017 (https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
+GreatSchools API (https://www.greatschools.org/api/docs/technical-overview/)
+
+#### How are data described:
+1 - Diversity Index
+2 - Period
+3 - Home Value
+4 - Zip data (for geo location and map)
+
+### Tools & Techniques:
+1- Pandas DataFrame for ETL
+2- Matplotlib, Follium, Google Map API for Visualization
+3- Python LXML/XML parsing for GreatSchools.org API
+
+### Our Findings
+#### 01 - Godwin - Data Merge Process - Scatter Plot
+![Scatter](images/01-01-godwin-scatter.png)
+
+![boxplot](images/01-02-godwin-boxplot.png)
+
+#### 02 - Eric - Regression Analysis
+![Eric Scatter](images/02-01-eric-value-diversity-scatter.png)
+
+![Eric Urban Line Chart](images/02-02-eric-urban-line.png)
+
+![Eric Suburban Line Chart](images/02-03-eric-suburban-line.png)
+
+![Eric Rural Line Chart](images/02-04-eric-rural-line.png)
+
+Linear Regression Analysis (All Zips and Years)
+--------------------------
+slope: -366763.29582571954    intercept: 391067.6471445414    stderr: 29170.424325240187
+r-value: -0.48937718437748057    p-value: 1.0384045132848702e-31
+![Eric Regression All](images/02-07-eric-regression-all.png)
+
+
+Linear Regression Analysis (Urban Zips, All Years)
+--------------------------
+slope: -721519.9070789743    intercept: 604243.1975286676    stderr: 55372.521800578215
+r-value: -0.8099936377599409    p-value: 2.4371772271053096e-22
+![Eric Regression Urban](images/02-08-eric-regression-urban.png)
+
+
+#### 03 - Aydin - Google Heat Map
+![Aydin Heatmap](images/03-01-aydin-heatmap.png)
+
+#### 04 - Trevor - Zip Code Color Map
+![2011-2017_Property_Values](images/2011-2017_Property_Values.gif)
+
+![2011-2017_Diversity_Index](images/2011-2017_Diversity_Index.gif)
+
+https://www.dropbox.com/sh/z98ulxf2m9khuku/AAC7XHnB_WOKv-ca9jviqOS6a?dl=0
+
+#### 05 - Agustin and Billy - General Trend vs Specific Areas
+![05-01-billy-value-diversity-all](images/05-01-billy-value-diversity-all.png)
+
+
+#### 06 - Agustin and Billy - School Ratings and Home Values
+
+
+### Conclusion
+
+
+### Questions?
+![Thank you](images/bmax-bye.gif)
+>>>>>>> 94130e99801b58cde994757e3d5c7c6c88947bf6
